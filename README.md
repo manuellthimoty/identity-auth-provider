@@ -2,13 +2,6 @@
 
 Sistem Single Sign-On terpusat: satu kali login di Auth Provider, dua aplikasi (App A & App B) bisa dibuka tanpa login ulang, dan pencabutan akses disebarkan ke seluruh aplikasi secara asinkron lewat message queue.
 
-## Identitas
-
-| | |
-|---|---|
-| **Nama** | _Manuel Thimoty Silalahi_ |
-| **NIM** | _13524102_ |
-
 ---
 
 ## Cara Menjalankan Sistem
